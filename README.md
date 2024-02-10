@@ -1,4 +1,4 @@
-# Manta
+# Manta prosto pop
 
 [![Build Status](https://github.com/dotabuff/manta/actions/workflows/ci.yml/badge.svg)](https://github.com/dotabuff/manta/actions/workflows/ci.yml)
 
