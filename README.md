@@ -1,6 +1,5 @@
 # Manta prosto pop
 
-[![Build Status](https://github.com/dotabuff/manta/actions/workflows/ci.yml/badge.svg)](https://github.com/dotabuff/manta/actions/workflows/ci.yml)
 
 Manta is a fully functional Dota 2 replay parser written in [Go](https://golang.org), targeting the Source 2 (Dota 2 Reborn) game engine.
 
